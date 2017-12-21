@@ -1,4 +1,0 @@
-rootProject.name = 'springclouddemo'
-include 'springclouddemo-core'
-include 'springclouddemo-app'
-
